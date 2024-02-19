@@ -7,6 +7,4 @@ more code here)
 
 one more line added
 
-feature branch changes are made
-
 main branch changes are made
