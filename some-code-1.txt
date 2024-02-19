@@ -7,4 +7,8 @@ more code here)
 
 one more line added
 
+<<<<<<< HEAD
 main branch changes are made
+=======
+feature branch changes are made
+>>>>>>> feature
